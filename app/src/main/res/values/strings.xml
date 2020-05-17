@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Credify</string>
+    <string name="placeholder_credit_card">XXXX XXXX XXXX XXXX</string>
 </resources>
